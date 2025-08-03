@@ -12,7 +12,7 @@ Expone una función de división entre dos números, validando que:
 
 ---
 
-## Archivos principales
+##  Archivos principales
 
 - `index.js`: Exporta la función `division(a, b)`
 
